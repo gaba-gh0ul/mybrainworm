@@ -3,8 +3,6 @@
 #include <map>
 #include <algorithm>
 
-using std::map;
-
 int minOperations(const std::vector<int> &locations) {
     int result = 0;
 
